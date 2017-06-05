@@ -5,3 +5,6 @@
 ----
 
 ![Preview](https://github.com/djzhao627/JSClickBubble/blob/master/Preview/JSClickBubble.png)
+
+
+![Preview](https://github.com/djzhao627/JSClickBubble/blob/master/Preview/JSClickBubble02.png)
