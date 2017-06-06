@@ -17,8 +17,8 @@ onload = function() {
         $elem.style.zIndex = 9999;
         $elem.style.position = "absolute";
         $elem.style.select = "none";
-        var x = e.clientX;
-        var y = e.clientY;
+        var x = e.pageX;
+        var y = e.pageY;
         $elem.style.left = (x - 10) + "px";
         $elem.style.top = (y - 20) + "px";
         clearInterval(anim);
