@@ -69,6 +69,7 @@ onload = function() {
         	anim = setInterval(function() {
 	            if (++increase == 150) {
 	                clearInterval(anim);
+			$body.removeChild($elem);
 	            }
 	            $elem.style.top = y - 20 - increase + "px";
 	            $elem.style.opacity = (150 - increase) / 120;
