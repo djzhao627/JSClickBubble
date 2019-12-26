@@ -59,6 +59,9 @@ onload = function() {
             case 105:
                 $elem.innerText = "(ꐦ°᷄д°᷅)";
                 break;
+	    case 120:
+		click_cnt = 0;
+		break;
             default:
 		// 手动更换下面这行双引号里面的内容 如"😀"
                 $elem.innerText = "❤";
