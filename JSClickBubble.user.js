@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         鼠标点击冒泡
 // @namespace    https://djzhao.js.org
-// @version      0.1
+// @version      0.3.2
 // @description  一个用JS写的鼠标左击特效
 // @description  一些Emoji 😀😃😄😁😆😅😂🤣☺😊😚😙😗😘😍😌😉🙃🙂😇😋😜😝😛🤑🤗🤓😎🤡🤠😖😣☹🙁😕😟😔😞😒😏😫😩😤😠😡😶😐😑😯😦😥😢😨😱😳😵😲😮😧🤤😭😪😴🙄🤔😬🤥🤐💩👺👹👿😈🤕🤒😷🤧🤢👻💀☠👽👾🤖🎃😺😸😹🙏👏🙌👐😾😿🙀😽😼😻
 // @author       一碗单炒饭
